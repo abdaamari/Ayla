@@ -24,32 +24,32 @@ import "swiper/css/pagination";
 
 const testimonials = [
   {
-    name: "Sarah Amanda",
+    name: "Vina Yanti",
     service: "Wedding Makeup",
     photo: "/gallery/review1.jpg",
     review:
-      "Makeupnya benar-benar sesuai ekspektasi. Natural, awet sampai malam dan banyak dipuji keluarga.",
+      "Saya sangat puas dengan hasil makeup dari Ayla MUA di hari spesial saya. Makeup-nya cantik, halus, dan terlihat natural, tapi tetap bikin wajah jadi manglingin dan lebih fresh. Hasilnya elegan tanpa terlihat berlebihan. Selain itu, makeup-nya tahan lama dan tidak luntur sampai acara selesai. Ayla MUA juga sangat ramah dan profesional. Sukses selalu untuk Ayla MUA, terima kasih sudah membuat hari special saya terasa begitu indah dan berkesan!💕",
   },
   {
-    name: "Nadia Putri",
-    service: "Graduation Makeup",
+    name: "Annisa Putri",
+    service: "Wedding Makeup",
     photo: "/gallery/review2.jpg",
     review:
-      "Kak Ayla ramah banget. Makeup wisuda aku flawless dan hasil fotonya cantik banget.",
+      "Sukaaaa bgttttttt sama make up nyaa 💕💕💕 kak Ayla nya sangat soft spoken sekaliiii. Make up ga luntur , bulu mata on point. Semua orang bilang pangling . Baju nya juga ga pasaran, sukaaaa bgtttt. Makasih kak aylaaaaaa sukses selalu🥹🙏🥹😁💕💕",
   },
   {
-    name: "Dinda Maharani",
+    name: "Ayu Kenyo Widyaningsih",
     service: "Party Makeup",
     photo: "/gallery/review3.jpg",
     review:
-      "Pertama kali makeup di Ayla dan langsung jatuh cinta. Highly recommended!",
+      "Sukaa banget sama hasil make upnya bener bener manglingi banget, untuk attireny juga baguss banyak pilihannya apalagi dengan harga yg terjangkau banget. Sempet mau booking untuk wisuda cuma belom jodoh, alhamdulillah jodoh di wedding aku. Cusss yg mau make up apapun bisa ke Ayla Makeup yaaaa!! ❤️😍",
   },
   {
-    name: "Salsa",
+    name: "Nur Anisya Amelia",
     service: "Engagement Makeup",
     photo: "/gallery/review4.jpg",
     review:
-      "Semua keluarga bilang makeupnya elegan. Terima kasih Kak Ayla ❤️",
+      "Sumpah tangannya ka Ayla ini magic bgt 🪄🪄. Dari awal fitting, tempatnya nyaman bgt, bajunya jg bagus bagus. Banyak pilihannya. Aku sendiri pake adat minang, pake suntiang yang gemes bgt warnanya rosegold. Dan ternyata suntiangnya gak yang di pasang satu satu, tapi udh jadi tinggal pake, Alhamdulillahh gak bikin pusing ✨. Make up nya cakep puoooolllll. Beneran bikin glow up, bikin pangling tapi ga bikin aku keliatan jadi org lain. Tetep aku cuma jadi tambah cantik🥰🥰 sampe tamu tamu yg dateng pas nikahan aku jg pada bilang make up nya bagus. Make up orang tuanya jg bagus. Mertua ku suka bgt sama make upnya sampe bikin temen temen mertuaku pangling.✨🫶🏻. Makasih ya ka Aylaaa. Beneran bikin aku happy bgttttt. Semoga makin banyak orderan ya kakk✨🫶🏻❤️",
   },
 ];
 export default function Testimonials() {
@@ -101,7 +101,7 @@ export default function Testimonials() {
           <div className="mt-8">
 
             <Link
-              href="https://www.google.com/maps/place/Galeri+Ayla+Makeup/"
+              href="https://maps.google.com/?q=Galeri+Ayla+Makeup"
               target="_blank"
               className="inline-flex items-center gap-2 text-primary font-medium hover:gap-3 duration-300"
             >
