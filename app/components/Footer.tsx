@@ -100,13 +100,13 @@ export default function Footer() {
               {/* Kalau pakai logo */}
 
               <Image
-                src="/gallery/logoayla-putih.png"
+                src="/gallery/logoayla.png"
                 alt="Ayla Make Up"
                 width={220}
                 height={80}
                 className="
                   w-auto
-                  h-20
+                  h-40
                   transition-transform
                   duration-500
                   hover:scale-105
