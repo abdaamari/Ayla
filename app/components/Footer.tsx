@@ -280,7 +280,7 @@ export default function Footer() {
                 </a>
 
                 <a
-                  href="https://tiktok.com/@ayla_MUA"
+                  href="https://tiktok.com/@ayla76makeup"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="
